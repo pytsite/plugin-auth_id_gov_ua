@@ -1,0 +1,27 @@
+{
+  "name": "auth_id_gov_ua",
+  "version": "0.1",
+  "description": {
+    "en": "id.gov.ua authentication",
+    "ru": "id.gov.ua authentication",
+    "uk": "id.gov.ua authentication"
+  },
+  "url": "https://github.com/pytsite/plugin-auth_id_gov_ua",
+  "author": {
+    "name": "Oleksandr Shepetko",
+    "email": "a@shepetko.com",
+    "url": "https://shepetko.com"
+  },
+  "requires": {
+    "pytsite": ">=9.1",
+    "packages": {
+      "oauthlib": "^3.0",
+      "requests": "^2.21"
+    },
+    "plugins": {
+      "assetman": "^5.1",
+      "form2": "^0.1",
+      "widget2": "^0.3"
+    }
+  }
+}

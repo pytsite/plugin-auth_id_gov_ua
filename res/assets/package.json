@@ -1,0 +1,8 @@
+{
+  "name": "@pytsite/auth_id_gov_ua",
+  "main": "js/index.js",
+  "dependencies": {
+    "react": "^16.8.6",
+    "html-to-react": "^1.3.4"
+  }
+}
